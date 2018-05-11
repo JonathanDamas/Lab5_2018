@@ -1,0 +1,22 @@
+h1{
+    color:gray;
+}
+
+#titulo{
+    margin: 5px 10px;
+    background-position: center;
+}
+
+#imagem{
+
+    height: 210px;
+    width: 400px;
+    margin: 10px auto;
+    background: url('../images/spacex.jpg') no-repeat center;
+
+}
+
+#texto{
+    margin: 5px 10px;
+    font-size: 19px;
+}
